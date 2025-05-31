@@ -1,0 +1,24 @@
+Test Case ID: TC001
+Description: Ensure device powers on within 5 seconds
+Expected Result: Device powers on in <5s
+Actual Result: 5
+Result: PASS
+Tested By: Mary 
+Date: 31/05/2025 17:56:37
+--------------------------------------
+Test Case ID: TC002
+Description: Verify temperature alarm activates at 38°C
+Expected Result: Alarm activates at 38°C
+Actual Result: 40
+Result: FAIL
+Tested By: mary
+Date: 31/05/2025 17:56:46
+--------------------------------------
+Test Case ID: TC003
+Description: Confirm data logging starts when button is pressed
+Expected Result: Data logging begins
+Actual Result: ok
+Result: PASS
+Tested By: mary
+Date: 31/05/2025 17:56:53
+--------------------------------------
